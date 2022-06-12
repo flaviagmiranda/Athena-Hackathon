@@ -22,8 +22,7 @@ let actions = ['The Earth is getting a bruise so turn your electricals OFF when 
     'Overfishing and industrial farming are the main reason for high methane levels in our atmosphere. Consider having a more plant-based diet.',
     'Vote with your money. Buy from organisations whose values align with yours.',
     'Use eco-friendly cleaning products.',
-    'To avoid dengue mosquito eggs, throw away, turn over, empty or store under a roof any container that may accumulate rainwater. Always place a tight lid on containers used for water storage (buckets, drums).',
-    'Just like a toddler screaming please, so are we so plant some trees.'
+    'To avoid dengue mosquito eggs, throw away, turn over, empty or store under a roof any container that may accumulate rainwater. Always place a tight lid on containers used for water storage (buckets, drums).'
 ]
 let factsButton = document.querySelector('#factsButton')
 let reset = document.querySelector('#reset')
